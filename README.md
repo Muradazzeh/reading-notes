@@ -8,16 +8,24 @@
 ## * Code 102 - Intro to Software Development📕
 ------------------------------------------------
 
+
+
 ## * Code 201-Foundations of Software Development📗
 ------------------------------------
+
+
 
 ## * Code 301 - Intermediate Software Development📙
 ---------------------------------------------
 
+
+
 ## * Code 401 - Advanced Software Development📘
 -----------------------------------------
 
-> This is the start I hope I will apdated this repo as requierd [^1]. 
+
+
+> This is the start I hope I will apdated this repo as requierd . 
 
 Murad Alazzeh ©️
 
