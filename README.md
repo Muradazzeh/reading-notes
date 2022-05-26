@@ -4,19 +4,17 @@
 
 ![link](./image/read%20note.png)
 
-## ***It will be divided to 4 parts*** 
-## * Code 102 - Intro to Software Development📕
+## ***It will be divided INTO 2 parts*** 
+## * Prep.. Intro to Software Development📕
 ------------------------------------------------
+* This is the start with the SQL reading part [SQL readme file](./Prep../SQL.md)
 
 
 
-## * Code 201-Foundations of Software Development📗
-------------------------------------
 
 
 
-## * Code 301 - Intermediate Software Development📙
----------------------------------------------
+
 
 
 
