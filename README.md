@@ -8,6 +8,7 @@
 ## * Prep.. Intro to Software Development📕
 ------------------------------------------------
 * This is the start with the SQL reading part [SQL readme file](./Prep../SQL.md)
+* this is the command line read 5 lesson [command line ](./Prep../Command%20line.md)
 
 
 
