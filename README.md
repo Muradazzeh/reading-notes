@@ -17,6 +17,8 @@
 
 * this is the link for typing [typing](./Prep../typing.md)
 
+* this is the link for read part [Readmd](./Prep../read.md)
+
 
 
 
