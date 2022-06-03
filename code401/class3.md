@@ -1,4 +1,4 @@
-## Big O: Analysis of Algorithm Efficiency
+## Big O: Analysis of Algorithm Efficiency , reading
 * notation is used to describe the efficiency of an algorithm or function. This efficiency is evaluated based on 2 factors
 * Big O Notation is all about the way an algorithm grows when it runs:
 
