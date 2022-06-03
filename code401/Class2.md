@@ -1,4 +1,5 @@
 ## Classes
+ * class 2 reading 
  * Classes are a template for creating objects. classes are special function .
  * class syntax has two components
     * class expressions 
