@@ -38,7 +38,16 @@
 * class 3 read Big O: Analysis of Algorithm Efficiency  [readclass3](./code401/class3.md)
 * class 4 read SQL vs NoSQL Database Differences  [readclass4](./code401/class4.md)
 * Class 5 read sequelize-normalization  [link to class5 readme](./code401/Class5.md)
+
+
+
+
+
+
+
 * class 6 read Authentication [link to class 6 Authentication](./code401/class6.md)
+* class 7 read JSON web token [link to readme file ](./code401/class7.md)
+
 > This is the start I hope I will apdated this repo as requierd . 
 
 Murad Alazzeh ©️
