@@ -42,7 +42,12 @@
 
 
 
+
+
+
+* class 6 read Authentication [link to class 6 Authentication](./code401/class6.md)
 * class 7 read JSON web token [link to readme file ](./code401/class7.md)
+
 > This is the start I hope I will apdated this repo as requierd . 
 
 Murad Alazzeh ©️
