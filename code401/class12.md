@@ -76,7 +76,7 @@ The client API provides us with following built in events −
 
 |  No. | WebSocket                                                      | Socket.io                                                                      |   |   |   |   |   |   |   |
 |------|----------------------------------------------------------------|--------------------------------------------------------------------------------|---|---|---|---|---|---|---|
-| 1    | It is the protocol that is established over the TCP connection |  It is the library to work with WebSocket                                      | |
+| 1    | It is the protocol that is established over the TCP connection |  It is the library to work with WebSocket                                      |   
 | 2    | It provides full-duplex communication on TCP connections.      | Provides the event-based communication between browser and server.             |  
 | 3    | Proxy and load balancer is not supported in WebSocket.         | A connection can be established in the presence of proxies and load balancers. | 
 | 4    | It doesn’t support broadcasting.                               | It supports broadcasting.                                                      |  

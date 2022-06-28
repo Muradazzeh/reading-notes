@@ -55,6 +55,7 @@
 * class 10 Stacks and Queues [link for class 10 read](./code401/class10.md)
 * class 11 Event-Driven Programming in Node.js [link for class 11 read](./code401/class11.md)
 * class 12 Socket io [link to socket io](./code401/class12.md)
+* class 13 Message Queues [link to Message Queues](./code401/class13.md)
 
 > This is the start I hope I will apdated this repo as requierd . 
 
