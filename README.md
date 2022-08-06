@@ -62,6 +62,8 @@
 * class 18 Amazon web services AWS: Events  [link to AWS:Events ](./code401/class18.md)
 * class 19 Amazon web services API, Dynamo and Lambda  [link to API, Dynamo and Lambda](./code401/class19.md)
 
+* class 26 Component Based UI - React-  [link to Component Based UI - React-](./code401/class26.md)
+
 > This is the start I hope I will apdated this repo as requierd . 
 
 Murad Alazzeh ©️
