@@ -64,6 +64,7 @@
 
 * class 26 Component Based UI - React-  [link to Component Based UI - React-](./code401/class26.md)
 * class 27 React hook   [link to React hook ](./code401/class27.md)
+* class 28 React hook use Effect   [link to React hook use Effect ](./code401/class28)
 
 > This is the start I hope I will apdated this repo as requierd . 
 
