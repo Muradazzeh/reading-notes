@@ -1,5 +1,5 @@
 # Reading-notes 
-### For prepration to advance level in javascripts we start here creating the reading-notes , so I can add every thing new I will learn , this repo it will be like notebook I will keep update it daily , and adding new information , new thing I will learn .
+### For preparation to advance level in javascript's we start here creating the reading-notes , so I can add every thing new I will learn , this repo it will be like notebook I will keep update it daily , and adding new information , new thing I will learn .
 ### Also I will keep it to track observation and question for the daily read.📓
 
 ![link](./image/read%20note.png)
@@ -9,7 +9,7 @@
 ------------------------------------------------
 * This is the start with the SQL reading part [SQL readme file](./Prep../SQL.md)
 * this is the command line read 5 lesson [command line ](./Prep../Command%20line.md)
-* This is the file for Git practies [Git practies](./Prep../GIT%20Practice.md)
+* This is the file for Git practices [Git practices](./Prep../GIT%20Practice.md)
 
 
 
@@ -17,7 +17,7 @@
 
 * this is the link for typing [typing](./Prep../typing.md)
 
-* this is the link for read part [Readmd](./Prep../read.md)
+* this is the link for read part [Readme](./Prep../read.md)
 
 
 
@@ -65,8 +65,9 @@
 * class 26 Component Based UI - React-  [link to Component Based UI - React-](./code401/class26.md)
 * class 27 React hook   [link to React hook ](./code401/class27.md)
 * class 28 React hook use Effect   [link to React hook use Effect ](./code401/class28.md)
+* class 29 React hook use reducer   [link to React hook use reducer ](./code401/class29.md)
 
-> This is the start I hope I will apdated this repo as requierd . 
+> This is the start I hope I will updated this repo as required . 
 
 Murad Alazzeh ©️
 
