@@ -66,6 +66,7 @@
 * class 27 React hook   [link to React hook ](./code401/class27.md)
 * class 28 React hook use Effect   [link to React hook use Effect ](./code401/class28.md)
 * class 29 React hook use reducer   [link to React hook use reducer ](./code401/class29.md)
+* class 30 hash table  [link to hash table ](./code401/class29.md)
 
 > This is the start I hope I will updated this repo as required . 
 
