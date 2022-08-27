@@ -68,7 +68,8 @@
 * class 29 React hook use reducer   [link to React hook use reducer ](./code401/class29.md)
 * class 30 hash table  [link to hash table ](./code401/class30.md)
 * class 31 Context [link to Context ](./code401/class31.md)
-* class 3 Context-API behavior [link to Context-API behavior ](./code401/class32.md)
+* class 32 Context-API behavior [link to Context-API behavior ](./code401/class32.md)
+* class 33 <Login /> and <Auth /> [link to <Login /> and <Auth /> ](./code401/class33.md)
 
 > This is the start I hope I will updated this repo as required . 
 
