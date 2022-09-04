@@ -71,6 +71,7 @@
 * class 32 Context-API behavior [link to Context-API behavior ](./code401/class32.md)
 * class 33 <Login /> and <Auth /> [link to <Login /> and <Auth /> ](./code401/class33.md)
 * class 34 Dynamic API Server [link to Dynamic API Server ](./code401/class34.md)
+* class 36 redux combined reducer [combined reducer ](./code401/class36.md)
 
 > This is the start I hope I will updated this repo as required . 
 
