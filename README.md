@@ -73,6 +73,9 @@
 * class 34 Dynamic API Server [link to Dynamic API Server ](./code401/class34.md)
 * class 36 redux combined reducer [combined reducer ](./code401/class36.md)
 
+
+* class 38 redux thunk [redux thunk ](./code401/class38.md)
+
 > This is the start I hope I will updated this repo as required . 
 
 Murad Alazzeh ©️
